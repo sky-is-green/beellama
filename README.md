@@ -2,6 +2,13 @@
 
 ![llama](https://raw.githubusercontent.com/ggml-org/llama.brand/refs/heads/master/cover/llama-cpp/cover-llama-cpp-dark.svg)
 
+![llama](https://raw.githubusercontent.com/ggml-org/llama.brand/refs/heads/master/cover/llama-cpp/cover-llama-cpp-dark.svg)
+
+**Fork of [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp).**
+
+[![Fork](https://img.shields.io/badge/fork-ggml--org%2Fllama.cpp-0366D6?style=flat)](https://github.com/sky-is-green/beellama)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://github.com/sky-is-green/beellama)
+
 <div align="center">
 
 <b>LLM inference in C/C++</b>
